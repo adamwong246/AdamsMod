@@ -1,0 +1,15 @@
+{
+  "name": "adams_mod",
+  "version": "0.0.1",
+  "title": "AdamsMod",
+  "description": "My personal modpack",
+  "factorio_version": "1.0",
+  "dependencies": [
+    "base >= 0.15.0",
+    "short_reach = 0.0.4",
+    "desire_paths = 0.0.4"
+  ],
+  "author": "adamwong246",
+  "contact": "adamwong246@gmail.com",
+  "homepage": "https://github.com/adamwong246/AdamsMod"
+}
