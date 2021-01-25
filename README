@@ -2,7 +2,16 @@
 
 This modpack contains many mods, some of my own creation and some not. Without besmiching vanilla, these mods are what I consider "improvements" to the base game. 
 
-Name         | Status | Description                   | Why
---------------------------------------------------------------------------
-Desire Paths | X      | Naturally forming dirt paths  | Cosmetic
-Short Reach  | X      | Limit the players reach       | Force the player to use drones and dissuade the use of manual labor.
+## Mods included
+
+### Desire Paths
+A cosmetic change that creates naturally forming dirt paths. Wherever you walk, the ground will become bare.
+
+### Short Reach
+An attempt to balance the gameplay away from manual labor by limiting your reach, forcing you to rely upon drones.
+
+### No Animations
+Preserve RAM by disabling animations.
+
+### Bottleneck
+In the absence of animations, use a simple color indicator to signal the status of a machine
