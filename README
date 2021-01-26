@@ -2,6 +2,10 @@
 
 This modpack contains many mods, some of my own creation and some not. Without besmiching vanilla, these mods are what I consider "improvements" to the base game. 
 
+## Goals
+
+AdamsMod aims to make Factorio harder and more punishing. It removes many quality-of-life features which I believe make the game too easy. It also adds a few fun flairs!
+
 ## Mods included
 
 ### Desire Paths
@@ -15,3 +19,27 @@ Preserve RAM by disabling animations.
 
 ### Bottleneck
 In the absence of animations, use a simple color indicator to signal the status of a machine
+
+### Uranium Geiger
+Geiger counter sounds when you are new uranium.
+
+## Mods yet to be included
+
+### Maintenance Madness
+Your machines breakdown without maintenance. 
+
+### Realistic Reactors
+Nuclears reactors must be controlled with signals or they will meltdown.
+
+### Dumb Steam Engines
+Steam engines will not scale down with electricity satisfaction. You must control them with signals or they will waste coal and spew pollution.
+
+### PFR Begone
+Nerfs the Personal Fusion Reactor, because it should not provide free electricty.
+
+### Pack chargers
+Foot-powered exoskeleton and wireless charging pads that fill the role that PFRs once held.
+
+### Fusion reactors
+Use hydrogen to make power. Requires a huge initial charge to jump start the reaction and continuous supply of hydrogen.
+
