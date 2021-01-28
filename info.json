@@ -1,6 +1,6 @@
 {
   "name": "adams_mod",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "title": "AdamsMod",
   "description": "My personal modpack",
   "factorio_version": "1.0",
@@ -11,6 +11,7 @@
     "no_animations = 1.1.1",
     "uranium_geiger = 0.4.0",
 
+    "no_free_lunch = 0.0.3",
     "short_reach = 0.0.4",
     "desire_paths = 0.0.4"
   ],
