@@ -1,6 +1,6 @@
 {
   "name": "adams_mod",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "title": "AdamsMod",
   "description": "So you've launched some rockets and now you are bored of infinite research... Are you ready for a new challenge? AdamsMod aims to make Factorio more complex and more punishing.",
   "factorio_version": "1.1",
@@ -12,8 +12,8 @@
     "uranium_geiger = 0.4.0",
     "clockwork = 1.1.0",
 
-    "no_free_lunch = 0.0.3",
-    "short_reach = 0.0.4",
+    "no_free_lunch = 0.0.5",
+    "short_reach = 0.0.5",
     "desire_paths = 0.0.5",
     "power_ranger = 0.0.2",
 
