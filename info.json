@@ -1,24 +1,22 @@
 {
   "name": "adams_mod",
-  "version": "0.0.7",
+  "version": "0.0.11",
   "title": "AdamsMod",
-  "description": "So you've launched some rockets and now you are bored of infinite research... Are you ready for a new challenge? AdamsMod aims to make Factorio more complex and more punishing.",
+  "description": "AdamsMod aims to make Factorio more complex and more punishing.",
   "factorio_version": "1.1",
   "dependencies": [
-    "base >= 0.15.0",
+    "base >= 0.11.0",
 
-    "bottleneck = 0.11.7",
-    "no_animations = 1.1.1",
-    "uranium_geiger = 0.4.0",
-    "clockwork = 1.1.0",
-
+    "Circuit_Power_Measurement_Combinator = 0.0.8",
+    "desire_paths = 0.0.6",
+    "Electric_Transformators = 1.0.1",
+    "Moon_Logic = 0.0.55",
     "no_free_lunch = 0.0.5",
-    "short_reach = 0.0.5",
-    "desire_paths = 0.0.5",
     "power_ranger = 0.0.2",
-
     "PowerOverload = 1.0.0",
-    "Electric_Transformators = 1.0.1"
+    "short_reach = 0.0.5",
+    "uranium_geiger = 0.4.0",
+    "toxic_waste = 0.0.7"
   ],
   "author": "adamwong246",
   "contact": "adamwong246@gmail.com",

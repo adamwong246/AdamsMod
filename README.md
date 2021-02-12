@@ -1,8 +1,5 @@
 # AdamsMod
-
-So you've launched some rockets and now you are bored of infinite research... Are you ready for a new challenge? AdamsMod aims to make Factorio more complex and more punishing.
-
-AdamsMod makes factorio much much harder. Your Portable Fusion Reactor no longer gives free power, nor does your offshore pumps. Similarly, unpowered belts have been entirely removed. You'll have to use inserters, trains and drones to get things around. Your characters reach is now very short, making manual building a frustrating experience. The nights are longer and darker too- you'll need far more accumulators to make it through the night. Your power grid is now much more liable to fail, because laser turrets now have the same priority as the rest of your machines. Power poles now explode when you pass too much electricity through them- luckily, transformers have been introduced to step-down power from a high power grid to smaller low power grids.
+## AdamsMod aims to make Factorio more complex and more punishing.
 
 ### Warning! Work in progress!
 This mod and many of it's dependencies are very much a Work In Progress. Please be aware that I have not had time to tweak everything and that Freeplay mode may have problems I've not yet solved.
@@ -30,6 +27,9 @@ Power poles explode when watts exceeds capacity.
 
 #### Electric Transformators
 Use transformers to transfer power from one electric grid to another. Also used a watt-regulator.
+
+#### Toxic Waste
+Everything produces garbage.
 
 ### Cosmetic mods
 
