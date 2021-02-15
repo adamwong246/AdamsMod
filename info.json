@@ -1,6 +1,6 @@
 {
   "name": "adams_mod",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "title": "AdamsMod",
   "description": "AdamsMod aims to make Factorio more complex and more punishing.",
   "factorio_version": "1.1",
@@ -8,9 +8,9 @@
     "base >= 1.1.21",
 
     "Circuit_Power_Measurement_Combinator = 0.0.8",
-    "Electric_Transformators = 1.0.1",
+    "Electric_Transformators = 2.1.1",
     "Moon_Logic >= 0.0.57",
-    "PowerOverload >= 1.0.0",
+    "Inventory Sensor = 1.10.4",
     "uranium_geiger = 0.4.0",
 
     "desire_paths = 0.0.7",
